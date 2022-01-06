@@ -2,4 +2,4 @@
 
 # Hello This Project is still on progress so the code is so messy inside. Thanks
 
-![Alt text](relative/path/to/rfm.jpg?raw=true "Title")
+![plot](./directory_1/directory_2/.../directory_n/rfm.jpg)
